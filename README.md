@@ -14,7 +14,7 @@ Aktif olarak teknik içerik üretiyorum; öğrenirken yazıyor, yazarken öğren
 
 ## 📝 Technical Blog
 
-<a href="www.fatihdemir.info/blogall.html" target="_blank">
+<a href="https://fatihdemir.info/blogall.html" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20My%20Technical%20Blog-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Blog" />
 </a>
 
